@@ -18,6 +18,7 @@
     <!-- .NET 3.5 -->
     <file src="build\signed\Mindscape.Raygun4Net.dll" target="lib\net35\Mindscape.Raygun4Net.dll" />
     <!-- .NET 4.0 -->
+    <file src="build\signed\Net4\Mindscape.Raygun4Net4.dll" target="lib\net40\Mindscape.Raygun4Net4.dll" />
     <file src="build\signed\Net4\Mindscape.Raygun4Net.dll" target="lib\net40\Mindscape.Raygun4Net.dll" />
     <!-- Xamarin.Android -->
     <file src="build\Mindscape.Raygun4Net.Xamarin.Android.dll" target="lib\MonoAndroid2.2\Mindscape.Raygun4Net.Xamarin.Android.dll" />
